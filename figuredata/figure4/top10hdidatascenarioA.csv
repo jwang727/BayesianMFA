@@ -1,0 +1,11 @@
+Variable Name,95%_HDI_width
+Casting to ShapeCasting,13.342814816335078
+Casting to Extrusion,12.153631078996762
+Extrusion to Manuf_BC,8.477496937067794
+Casting to SheetAndPlate,8.208715170641629
+RecycleRefining to ShapeCasting,7.030818645251377
+RecycleRefining to Extrusion,6.604245329649413
+ShapeCasting to Manuf_BC,6.42534252751811
+Remelting to ShapeCasting,6.160166866514673
+InternalRefining to ShapeCasting,6.005509947168238
+Extrusion to Manuf_TAU,5.908567663441768
